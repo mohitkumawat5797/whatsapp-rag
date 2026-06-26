@@ -1,0 +1,18 @@
+[project]
+name = "whatsapp-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.78.0",
+    "flask>=3.1.1",
+    "groq==0.4.1",
+    "numpy>=2.3.0",
+    "pdfplumber>=0.11.7",
+    "pinecone>=7.3.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.4",
+    "twilio>=9.8.0",
+]
