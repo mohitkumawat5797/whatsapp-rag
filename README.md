@@ -8,9 +8,18 @@ Send a PDF to a WhatsApp number. Ask it questions. Get answers back — from the
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/83b0be05-92f7-4f92-865e-a38cd7f4c06f" width="45%" alt="Architecture Overview" />
-  <br /><br />
+</p>
+#----------------------------------------------------------------------------------------------------------------------------------------
+&nbsp;
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/d0f7a28f-18d0-4a8b-8e77-67e5bec9baa9" width="45%" alt="WhatsApp Chat Demo 1" />
-  <br /><br />
+</p>
+
+#----------------------------------------------------------------------------------------------------------------------------------------
+&nbsp;
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/b7eb6378-1377-4318-b584-28ba1a6cec80" width="45%" alt="WhatsApp Chat Demo 2" />
 </p>
 
