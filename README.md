@@ -84,7 +84,3 @@ https://your-tunnel-url/webhook
 - No Pinecone sync = state resets on restart.
 
 ---
-
-## License
-
-MIT — see [LICENSE](LICENSE).
